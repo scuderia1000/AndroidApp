@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Home Payments</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonAddCounter_Text">Добавить счетчик</string>
+    <string name="title_activity_counter_type">CounterType</string>
+    <string name="water_counter_text">Счетчик воды</string>
+    <string name="electro_counter_text">Счетчик электроэнергии</string>
+    <string name="gas_counter_text">Счетчик газа</string>
+    <string name="hot_counter_text">Счетчик тепла</string>
+    <string name="my_counter_text">Свой</string>
+    <string name="l_schet">Номер лицевого счета</string>
+    <string name="adres">Адрес</string>
+    <string name="e_mail">Email</string>
+    <string name="hint_email">Кому отправить показания</string>
+    <string name="tarif_name_1">Название тарифа 1</string>
+    <string name="tarif_1">Тариф 1</string>
+    <string name="start_statement">Текущее значение</string>
+    <string name="tarif_name_2">Название тарифа 2</string>
+    <string name="tarif_2">Тариф 2</string>
+    <string name="add_tarif">Добавить тариф</string>
+    <string name="add">Добавить</string>
+    <string name="create_counter">Создать</string>
+    <string name="voda_name">Холодная вода</string>
+    <string name="electro_name_1">Одноставочный тариф</string>
+    <string name="electro_name_2_1">Пиковая зона</string>
+    <string name="electro_name_2_2">Ночная зона</string>
+    <string name="electro_name_3">Полупиковая зона</string>
+    <string name="gas_name">Счетчик 1</string>
+    <string name="otoplenie_name">Счетчик 1</string>
+    <string name="name_counters">Название</string>
+    <string name="pokaz">Показания</string>
+    <string name="racxod">Расход</string>
+    <string name="tarif">Тариф</string>
+    <string name="summa">Сумма</string>
+    <string name="delete_record">Удалить</string>
+    <string name="data_send">Отправить</string>
+    <string name="owner_name">Фамилия</string>
+    <string name="light">Фонарик</string>
+    <string name="edit">Редактировать</string>
+
+    <string-array name="names">
+        <item>Вода</item>
+        <item>Электроэнергия</item>
+        <item>Газ</item>
+        <item>Тепло</item>
+        <item>Свой</item>
+    </string-array>
+
+    <string name="title_activity_create_counter">CreateCounterActivity</string>
+
+    <color name="editText_color">#808080</color>
+
+    <string name="title_activity_data_counters">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_create_data">CreateData</string>
+
+</resources>
